@@ -1,0 +1,33 @@
+Criando um repositório no GITHUB
+
+> Selecionar "Create new repository"
+> Inserir o name ......
+> Colocar descriptions (optional)
+> Flap em "Public"
+> Flap em "Add a Readme File"
+> Clicar em Create Repository
+
+Obs. Caso queira editar o repositório criado clique no editar
+
+> Clonar o resitório no GITBASH HERE
+
+> Clique em code
+> Clone
+> Copiar arquivo em HTML
+
+Na tua máquina
+
+> Abrir a pasta onde esta os códigos
+> Abrir o GITBASH
+> Comandos:
+> git clone "arquivo copiado no site da GITHUB"
+
+Obs:
+Caso queira abrir uma pasta dentro do repositório já comitado
+
+Comandos
+
+> git add . ou git -a
+> git commit-m "....................."
+> git push origin main
+ 
